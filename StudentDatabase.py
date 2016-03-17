@@ -1,9 +1,10 @@
 """StudentDatabase.py
 CSC 109.02 Mid-term Project
-Author      : Catherine Grillo
-Created     : 11/01/2015
-Last Updated: 11/05/2015
-Due         : 11/06/2015
+Author       : Catherine Grillo
+Created      : 11/01/2015
+Last Updated : 11/05/2015
+Due          : 11/06/2015
+Upload to Git: 3/17/2016
 """
 import sqlite3 as sq
 
